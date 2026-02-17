@@ -44,3 +44,7 @@ bin/
 ### Extra ###
 docs/
 .github/
+.dockerignore
+Dockerfile
+.gitignore
+*.md
